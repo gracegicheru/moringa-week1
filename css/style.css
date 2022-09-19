@@ -2,3 +2,9 @@ h1 {
     text-align: center;
     color: blueviolet;
 }
+.image
+{
+ height: 300px; 
+ width: 300px;  
+ margin: 25px 50px 75px 500px;
+}
