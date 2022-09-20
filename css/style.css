@@ -10,6 +10,7 @@ h1 {
 }
 .me {
     color:green;
+    float: left;
 }
 .img{
     margin: 25px 25px 25px 25px;
