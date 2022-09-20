@@ -2,23 +2,30 @@ h1 {
     text-align: center;
     color: blueviolet;
 }
+.img{
+    margin: 15px 75px 25px 75px;
+}
 .image
 {
  height: 300px; 
  width: 300px;  
  margin: 25px 50px 75px 500px;
 }
-.me {
-    color:green;
-    float: left;
-}
-.img{
-    margin: 15px 75px 25px 75px;
-}
+
 .projects{
     margin: 25px 75px 25px 75px; 
     
 }
+.project{
+    margin-left: 50px;
+}
 .about{
     margin: 25px 75px 25px 75px;  
+}
+.abouts{
+    margin-left: 50px;
+}
+.me {
+    color:green;
+    float: left;
 }
