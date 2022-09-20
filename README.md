@@ -17,6 +17,7 @@
 
 ### Link to the project
 
+* https://gracegicheru.github.io/moringa-week1/
 
 ### Copyright and license Information
 
